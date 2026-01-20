@@ -1,0 +1,5 @@
+{
+  "name": "EduReceipt - Professional School Fee Receipt Generator",
+  "description": "A comprehensive web application for generating, managing, and printing professional school money receipts with customizable fee categories, bulk printing, and A4 layout support.",
+  "requestFramePermissions": []
+}
